@@ -4,7 +4,6 @@ import java.util.stream.Collectors;
 import java.util.Arrays;
 
 class Main {
-  // write your solution in this function
   public static double GiveChange(CatalogItem[] catalogItems, OrderedItem[] orderedItems, double moneyProvided) throws IllegalArgumentException, ItemNotInCatalogException, InsufficientFundsException {
 
   if (moneyProvided < 0)

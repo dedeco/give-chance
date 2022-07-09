@@ -1,7 +1,7 @@
 # Merit America - Mock Technical Interview
 ## Coding Challenge - Give Change
 
-Avaliable at [https://replit.com/@AndreSousa9/GiveChange#Main.java](replit)
+Avaliable at [replit](https://replit.com/@AndreSousa9/GiveChange#Main.java)
 
 *-- PLEASE READ THESE INSTRUCTIONS BEFORE PROCEEDING --*
 
